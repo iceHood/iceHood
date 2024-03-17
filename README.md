@@ -4,7 +4,4 @@ Hi.
 I'm JungHyun Lim, iOS Developer.
 
 ### Language
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceHood)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
