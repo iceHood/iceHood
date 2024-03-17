@@ -4,4 +4,4 @@ Hi.
 I'm JungHyun Lim, <img alt="Static Badge" src="https://img.shields.io/badge/iOS-000000?style=flat-square"/> Developer.
 
 ### Language
-<img alt="Static Badge" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/Cplusplus-00599C?style=flat-square&logo=c++&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
